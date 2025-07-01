@@ -8,4 +8,4 @@ RUN pip install flask
 
 EXPOSE 5050 
 
-CMD["python", "app.py"]
+CMD ["python", "app.py"]
